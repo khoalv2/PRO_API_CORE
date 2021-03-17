@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Api\\PRO.Api.csproj": {}
+    "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.API\\PRO.API.csproj": {}
   },
   "projects": {
-    "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Api\\PRO.Api.csproj": {
+    "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.API\\PRO.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Api\\PRO.Api.csproj",
-        "projectName": "PRO.Api",
-        "projectPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Api\\PRO.Api.csproj",
+        "projectUniqueName": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.API\\PRO.API.csproj",
+        "projectName": "PRO.API",
+        "projectPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.API\\PRO.API.csproj",
         "packagesPath": "C:\\Users\\KhoaLV\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Api\\obj\\",
+        "outputPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KhoaLV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj": {
-                "projectPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj"
+              "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj": {
+                "projectPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj"
               },
-              "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Data\\PRO.Data.csproj": {
-                "projectPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Data\\PRO.Data.csproj"
+              "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Data\\PRO.Data.csproj": {
+                "projectPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Data\\PRO.Data.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj": {
+    "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj",
+        "projectUniqueName": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj",
         "projectName": "PRO.Core",
-        "projectPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj",
+        "projectPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj",
         "packagesPath": "C:\\Users\\KhoaLV\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\obj\\",
+        "outputPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KhoaLV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,14 +126,14 @@
         }
       }
     },
-    "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Data\\PRO.Data.csproj": {
+    "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Data\\PRO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Data\\PRO.Data.csproj",
+        "projectUniqueName": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Data\\PRO.Data.csproj",
         "projectName": "PRO.Data",
-        "projectPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Data\\PRO.Data.csproj",
+        "projectPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Data\\PRO.Data.csproj",
         "packagesPath": "C:\\Users\\KhoaLV\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Data\\obj\\",
+        "outputPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KhoaLV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -149,8 +149,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj": {
-                "projectPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj"
+              "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj": {
+                "projectPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IEcAlkz7RzxY/Ss0PTUCbV3tDXNP81L8Vv+xZNmVFheh933gNGByDhOidT1B1Wujhzze6ptnt70qlMoksEWpXw==",
+  "dgSpecHash": "Nx+vxPqUa0W6/XmnTZ1ItAP40euuk54C0QhbVWfxXExec82bJD9PNiCAa4a3w+OV5WbQ2Gr1rWQ45BiZY7Ko0A==",
   "success": true,
-  "projectFilePath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj",
+  "projectFilePath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

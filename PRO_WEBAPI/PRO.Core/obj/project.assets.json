@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj",
+      "projectUniqueName": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj",
       "projectName": "PRO.Core",
-      "projectPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj",
+      "projectPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\PRO.Core.csproj",
       "packagesPath": "C:\\Users\\KhoaLV\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECT\\STRUCTURE\\WEB_API\\PRO_WEBAPI\\PRO.Core\\obj\\",
+      "outputPath": "D:\\PROJECT\\STRUCTURE\\PRO_WEB_API\\PRO_WEBAPI\\PRO.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KhoaLV\\AppData\\Roaming\\NuGet\\NuGet.Config",
